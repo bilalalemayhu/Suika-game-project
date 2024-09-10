@@ -6,7 +6,7 @@ width = 800
 height = 400
 screen = pygame.display.set_mode((width, height))
 clock = pygame.time.Clock()
-pygame.display.set_caption('Suika')
+pygame.display.set_caption('Suika Game')
 
 
 while True:
@@ -16,34 +16,3 @@ while True:
 
 
     pygame.display.flip()
-
-
-
-h = "55"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
